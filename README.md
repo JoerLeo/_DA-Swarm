@@ -47,23 +47,18 @@
 
 ## 🛠️ 环境配置与运行 (Setup & Execution)
 
-### 1. 克隆仓库
-```bash
-git clone https://github.com/[你的用户名]/DA-Swarm-Robotics.git
-cd DA-Swarm-Robotics
-```
 
-### 2. 安装依赖
+### 1. 安装依赖
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. 运行主演示程序 (Dashboard)
+### 2. 运行主演示程序 (Dashboard)
 ```bash
 python main_dashboard.py
 ```
 
-### 4. 运行对比实验脚本
+### 3. 运行对比实验脚本
 ```bash
 python ablation_study.py
 ```
@@ -76,7 +71,7 @@ python ablation_study.py
 - `results/`: 存放生成的高清演示图及数据报表。
 
 ## 🎓 致谢 (Credits)
-本课题遵循江南大学人工智能与计算机学院《物联网与智能控制》大作业规范完成。
+本课题遵循江南大学人工智能与计算机学院《物联网与智能控制》大作业题目一任务二相关规范完成。
 
 **作者**：[李家炜]
 **学号**：[1033220223]
